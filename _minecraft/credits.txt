@@ -1,0 +1,34 @@
+Credits and Legal Disclaimer
+
+This project is an independent, non-commercial fan-made recreation of the game Minecraft, created purely for educational purposes and personal enjoyment. It has no intention of competing with or infringing upon the intellectual property rights of Mojang Studios, a subsidiary of Microsoft Corporation.
+
+
+Acknowledgments
+
+Minecraft is a registered trademark and copyrighted property of Mojang Studios, with Markus "Notch" Persson credited as the original creator and lead developer.
+Mojang Studios, as part of Microsoft Corporation, holds all rights to the design, concept, code, branding, and other intellectual elements of the game.
+
+
+Developer Information
+
+This version for browser gameplay was developed by k-Emannuel-p, who assumes no ownership of Minecraft's original assets, design, or concept.
+No assets, textures, or code from the official game were directly copied, extracted, or reused in this version. Any similarities are purely for educational and entertainment purposes, reflecting homage to the creativity of Mojang Studios.
+
+
+Important Legal Notice
+
+Non-Commercial Nature: This project is strictly non-commercial and generates no revenue, be it through sales, advertising, or other forms of monetization.
+No Association or Endorsement: Mojang Studios and Microsoft Corporation are not associated with, do not endorse, and have no involvement in this project.
+Respect for Intellectual Property: This recreation has been built with respect for the intellectual property of Mojang Studios, and care has been taken to avoid the misuse of any trademarked or proprietary material.
+Fair Use Compliance: The purpose of this project is to serve as a technical demonstration and homage under fair use principles, without replacing or diminishing the value of the original Minecraft game.
+
+
+Recommendations to Users
+
+For the full and official experience, please support the developers by purchasing Minecraft from the official website at https://www.minecraft.net.
+We encourage players to respect the work of Mojang Studios and Microsoft Corporation by abiding by their terms of service and intellectual property policies.
+
+
+Final Note
+
+If at any point Mojang Studios or Microsoft Corporation request the modification, removal, or discontinuation of this project, their wishes will be fully respected and promptly complied with.

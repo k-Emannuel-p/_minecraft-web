@@ -1,0 +1,11 @@
+Upcoming Updates News  
+
+We are excited to share some sneak peeks of what’s coming in future updates for this browser-based Minecraft recreation. Here’s what you can look forward to:  
+
+- New Biomes: Explore fresh, diverse environments that will enrich your adventures.  
+- Improved Collision and Movement: Enjoy smoother interactions with the world and better character control.  
+- Enhanced Optimizations: Expect improved performance, faster load times, and better stability.  
+- Broader Device Compatibility: Play on a wider range of devices, making the game more accessible to everyone.  
+- Crouching Mechanics: Gain the ability to crouch for new gameplay strategies and movement dynamics.  
+
+Stay tuned for more updates as we continue developing this project for your enjoyment!
